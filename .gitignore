@@ -60,6 +60,8 @@ atlassian*
 # !/lib/web/namespace
 !/lib/web/n98/.gitignore
 
+/generated
+
 /node_modules
 
 /phpserver
